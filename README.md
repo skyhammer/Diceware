@@ -1,6 +1,8 @@
 # Diceware
 Diceware Passphrase Generator with GUI
 
+![Diceware](https://cloud.githubusercontent.com/assets/6375507/23087110/710fbc0a-f526-11e6-940f-5bf601f6bb20.PNG)
+
 ## Introduction
 Diceware is a technique that uses dice to generate a random number that is 5 digits long. The 5 numbers, between 11111 and 7776, is then used to look up a word according to that word's index. Multiple words are then combined to produce a passphrase, with a recommended length of 6 words. See http://world.std.com/~reinhold/diceware.html for more information.
 
